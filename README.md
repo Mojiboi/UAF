@@ -1,2 +1,2 @@
 # UAF
-    Assignments solutions by Moazzam Mirza
+    Assignments solutions by me to provide help with assignments to my fellows
