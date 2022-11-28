@@ -1,0 +1,15 @@
+/home/mojiboi/my_git/UAF/Assignments/c#/prob#06-36/bin/Debug/net6.0/prob#06-36
+/home/mojiboi/my_git/UAF/Assignments/c#/prob#06-36/bin/Debug/net6.0/prob#06-36.deps.json
+/home/mojiboi/my_git/UAF/Assignments/c#/prob#06-36/bin/Debug/net6.0/prob#06-36.runtimeconfig.json
+/home/mojiboi/my_git/UAF/Assignments/c#/prob#06-36/bin/Debug/net6.0/prob#06-36.dll
+/home/mojiboi/my_git/UAF/Assignments/c#/prob#06-36/bin/Debug/net6.0/prob#06-36.pdb
+/home/mojiboi/my_git/UAF/Assignments/c#/prob#06-36/obj/Debug/net6.0/prob#06-36.csproj.AssemblyReference.cache
+/home/mojiboi/my_git/UAF/Assignments/c#/prob#06-36/obj/Debug/net6.0/prob#06-36.GeneratedMSBuildEditorConfig.editorconfig
+/home/mojiboi/my_git/UAF/Assignments/c#/prob#06-36/obj/Debug/net6.0/prob#06-36.AssemblyInfoInputs.cache
+/home/mojiboi/my_git/UAF/Assignments/c#/prob#06-36/obj/Debug/net6.0/prob#06-36.AssemblyInfo.cs
+/home/mojiboi/my_git/UAF/Assignments/c#/prob#06-36/obj/Debug/net6.0/prob#06-36.csproj.CoreCompileInputs.cache
+/home/mojiboi/my_git/UAF/Assignments/c#/prob#06-36/obj/Debug/net6.0/prob#06-36.dll
+/home/mojiboi/my_git/UAF/Assignments/c#/prob#06-36/obj/Debug/net6.0/refint/prob#06-36.dll
+/home/mojiboi/my_git/UAF/Assignments/c#/prob#06-36/obj/Debug/net6.0/prob#06-36.pdb
+/home/mojiboi/my_git/UAF/Assignments/c#/prob#06-36/obj/Debug/net6.0/prob#06-36.genruntimeconfig.cache
+/home/mojiboi/my_git/UAF/Assignments/c#/prob#06-36/obj/Debug/net6.0/ref/prob#06-36.dll
